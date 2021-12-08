@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name"><strong>SciCulator</strong></string>
+    <string name="squared">x<sup><small>2</small></sup></string>
+    <string name="pie"><span>&#8508;</span></string>
+</resources>
