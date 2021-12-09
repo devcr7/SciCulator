@@ -19,5 +19,4 @@ The app icon has been generated with the help of the "Launcher icon generator" a
 
 Screenshot:
 
-
-![github-small](https://user-images.githubusercontent.com/61392760/145310525-d71118a6-d34d-4048-ac83-38e9436608b9.jpg)
+<img src="SciCulator.jpg" width="300">
