@@ -18,4 +18,4 @@ The defined OnPress function also checks if there is an integer overflow, wrong 
 The app icon has been generated with the help of the "Launcher icon generator" and the icon image has been taken from "Free stock images".
 
 Screenshot:
-![alt text](https://ibb.co/3s9CPyz)
+![alt text](https://ibb.co/3s9CPyz][img]https://i.ibb.co/3s9CPyz/Screenshot-2021-12-09-05-25-38-325-com-example-sciculator.jpg)
