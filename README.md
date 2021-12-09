@@ -16,3 +16,6 @@ Functions/methods used in the MainActivity include:
 The defined OnPress function also checks if there is an integer overflow, wrong parenthesization, invalid expression etc., and displays the corresponding required warning/message so that the expression can be correctly re-entered.
 
 The app icon has been generated with the help of the "Launcher icon generator" and the icon image has been taken from "Free stock images".
+
+Screenshot:
+![alt text](https://ibb.co/3s9CPyz)
