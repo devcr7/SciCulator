@@ -20,4 +20,4 @@ The app icon has been generated with the help of the "Launcher icon generator" a
 Screenshot:
 
 
-![Screenshot_2021-12-09-05-25-38-325_com example sciculator](https://user-images.githubusercontent.com/61392760/145310525-d71118a6-d34d-4048-ac83-38e9436608b9.jpg)
+![github-small](https://user-images.githubusercontent.com/61392760/145310525-d71118a6-d34d-4048-ac83-38e9436608b9.jpg)
