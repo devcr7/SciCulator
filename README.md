@@ -9,7 +9,7 @@ Data types used in the MainActivity include:
 3. String: Stores the value of pie upto 18 decimal places.
 
 Functions/methods used in the MainActivity include:                                                                              
-1. onCreate(Bundle obj): This function itself links the main xml file to the content view, besides this it has been used to call other functions as soon as the app starts.
+1. onCreate(Bundle obj): This function itself links the main xml file to the content view, besides this it has been used to call other functions as soon as the app starts. I've used hide function from the ActionBar class inorder to hide the status bar of the app.
 2. OnPress(): This is a non return type public function which stores all the 'onClickListeners' for the buttons and displays the required data in both the text views, it explicitly calls the 'evaluate' method and displays the result as soon as the 'equal' button is pressed on the UI.
 3. evaluate(obj): It performs all the complex calculations and finally returns the answer as double by taking a string object as a parameter.
 
