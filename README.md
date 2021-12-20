@@ -1,8 +1,7 @@
 # SciCulator
-A Scientific Calculator App
+A Scientific Calculator App that solves the arithmetic, trigonometric and logarithmic expressions.
 
 The app solves the arithmetic, trigonometric and logarithmic expressions.
-
 Data types used in the MainActivity include:
 1. Buttons: Multiple objects of this data type have been created inorder to take the value from the user as indicated in the text of the respected button.
 2. TextView: Two objects of this class have been created, one to display the final result and the other to show the current working expression.
